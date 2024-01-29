@@ -17,7 +17,7 @@
 
 <br>
 # 💫 
-Soy un apasionado ingeniero de software con tres años de experiencia <br>en el desarrollo y mantenimiento de software y aplicaciones <br>informáticas. Su enfoque principal ha sido el diseño de sistemas y la <br>programación en varios lenguajes, incluyendo C++, Java y Python. Ha <br>trabajado en proyectos de diversos tamaños, y he destacado por mi<br>capacidad para resolver problemas técnicos y ofrecer soluciones <br>eficientes.
+Soy un apasionado ingeniero de software con cinco años de experiencia <br>en el desarrollo y mantenimiento de software y aplicaciones <br>informáticas. Su enfoque principal ha sido el diseño de sistemas y la <br>programación en varios lenguajes, incluyendo C++, Java y Python. Ha <br>trabajado en proyectos de diversos tamaños, y he destacado por mi<br>capacidad para resolver problemas técnicos y ofrecer soluciones <br>eficientes.
 
 
 ## 🌐 Socials:
