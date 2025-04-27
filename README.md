@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Sebastián Grisales</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Sebastián Grisales</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,15 +8,17 @@
 
 ---
 
-## <picture><img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width="40"></picture> Sobre mí
+## Sobre mí
 
-Soy un ingeniero de software apasionado con más de cinco años de experiencia en el desarrollo y mantenimiento de sistemas y aplicaciones. Mi enfoque principal es el diseño de soluciones escalables, el análisis de datos y el desarrollo de software en lenguajes como C++, Java y Python.
+Soy un ingeniero de software con más de cinco años de experiencia en el desarrollo y mantenimiento de aplicaciones y sistemas.  
+Especializado en el diseño de soluciones escalables, el desarrollo backend y fullstack, y la implementación de arquitecturas eficientes.  
 
-Me caracterizo por mi capacidad de liderazgo técnico, resolución de problemas complejos y constante búsqueda de innovación tecnológica.
+Mi trayectoria se caracteriza por el dominio de varios lenguajes de programación como C++, Java y Python, así como por mi enfoque en la resolución de problemas complejos y la entrega de soluciones innovadoras de alta calidad.  
+Mi compromiso con la mejora continua y la pasión por la tecnología me impulsan a ofrecer resultados sobresalientes en cada proyecto.
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 <div align="center">
   
@@ -35,7 +37,7 @@ Me caracterizo por mi capacidad de liderazgo técnico, resolución de problemas 
 
 ---
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -48,7 +50,7 @@ Me caracterizo por mi capacidad de liderazgo técnico, resolución de problemas 
 
 ---
 
-## 🌐 Conecta conmigo
+## Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/johan-sebasti%C3%A1n-grisales-montoya-371911257/">
@@ -62,4 +64,4 @@ Me caracterizo por mi capacidad de liderazgo técnico, resolución de problemas 
   <img src="https://visitcount.itsvg.in/api?id=heysebas&icon=5&color=4" alt="Contador de visitas">
 </p>
 
-<!-- Hecho con dedicación y pasión por Sebastián Grisales -->
+<!-- Hecho con dedicación por Sebastián Grisales -->
