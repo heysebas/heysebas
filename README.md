@@ -61,7 +61,8 @@ Mi compromiso con la mejora continua y la pasión por la tecnología me impulsan
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=heysebas&icon=5&color=4" alt="Contador de visitas">
+  <img src="https://komarev.com/ghpvc/?username=heysebas&label=Profile%20views&color=0e75b6&style=flat" alt="heysebas" />
 </p>
+
 
 <!-- Hecho con dedicación por Sebastián Grisales -->
